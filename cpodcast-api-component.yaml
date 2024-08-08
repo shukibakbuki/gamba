@@ -7,7 +7,7 @@ metadata:
     - java
   links:
     - url: https://github.com/shukibakbuki/gamba
-    title: gamba
+    title: GitHub Repo
     icon: github
 spec:
   type: service
