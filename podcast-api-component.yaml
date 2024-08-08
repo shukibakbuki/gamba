@@ -9,7 +9,7 @@ metadata:
   links:
     - url: https://github.com/shukibakbuki/gamba
 spec:
-  type: service
+  type: gamba
   lifecycle: experimental
   owner: team-b
   system: podcast
