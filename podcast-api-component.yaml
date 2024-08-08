@@ -7,7 +7,6 @@ metadata:
     - java
   links:
     - url: https://github.com/shukibakbuki/gamba
-    title: GitHub Repo
 spec:
   type: service
   lifecycle: experimental
